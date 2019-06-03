@@ -1,2 +1,2 @@
 # SARII
-Sarcastic ARtificial Intelligence Inspiration
+Simple ARtificial Intelligence Inspiration
