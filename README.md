@@ -1,5 +1,5 @@
 # SARII
 ### Simple ARtificial Intelligence Inspiration
 
-Trainning data from GoodReads
-Images from Unsplash
+* Trainning data from GoodReads
+* Images from Unsplash
